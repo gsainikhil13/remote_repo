@@ -12,7 +12,4 @@ for x in g:
         print(x)
     else:
         break
-        
-
-
-
+ 
